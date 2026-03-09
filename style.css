@@ -1,0 +1,6 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+button, input, select {
+  min-height: 44px; /* tap-friendly for Android */
+}
